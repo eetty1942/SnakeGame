@@ -1,0 +1,7 @@
+20	lsn
+80	msn
+30	lss
+40	sss
+50	sls
+60	mmm
+

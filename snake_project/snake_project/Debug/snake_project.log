@@ -1,0 +1,59 @@
+﻿빌드 시작: 2014-07-16 오후 3:42:53
+     1>2 노드의 "I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\snake_project\snake_project.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\snake_project.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt snake_final.c
+         snake_final.c
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(83): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 'gets' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(88): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(74): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(153): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(178): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 'gets' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(197): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 'gets' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(198): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(202): warning C4098: 'snake' : 'void' 함수에서 값을 반환하고 있습니다.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(224): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(130) : 'kbhit' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(228): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(269): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 'gets' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(270): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(271): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(279): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(148): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(147): warning C4101: 'jumsu' :참조되지 않은 지역 변수입니다.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(310): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(315): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>i:\2014년 1학기\c응용\프로젝트 완성본\201203143_이승무_c언어프로젝트 완성본 (2)\snake_project\snake_project\snake_final.c(322): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\Debug\snake_project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\snake_project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\Debug\snake_project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\Debug\snake_project.lib" /MACHINE:X86 Debug\snake_final.obj
+         snake_project.vcxproj -> I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\Debug\snake_project.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\Debug\snake_project.exe.manifest" /manifest Debug\snake_project.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Debug\snake_project.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\snake_project.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"I:\2014년 1학기\C응용\프로젝트 완성본\201203143_이승무_C언어프로젝트 완성본 (2)\snake_project\snake_project\snake_project.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:25.64
